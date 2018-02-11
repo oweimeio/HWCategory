@@ -2,10 +2,11 @@
 //  NSString+Input.m
 //  HWCategory
 //
-//  Created by 华奥 on 2018/2/11.
+//  Created by HW on 2018/2/11.
 //
 
 #import "NSString+Input.h"
+#import <CommonCrypto/CommonDigest.h>
 
 @implementation NSString (Input)
 
@@ -1724,5 +1725,32 @@
 	}];
 	
 	return text;
+}
+
+- (NSString *)trimEndComma {
+	if ([[self substringFromIndex:self.length - 1] isEqualToString:@","]) {
+		return [self substringToIndex:self.length - 1];
+	}
+	return self;
+}
+
+- (NSString *)trimEndStr:(NSString *)str {
+	if ([[self substringFromIndex:self.length - 1] isEqualToString:str]) {
+		return [self substringToIndex:self.length - 1];
+	}
+	return self;
+}
+
+- (NSString *)MD5_32 {
+	const char *cStr = [self UTF8String];
+	unsigned char result[32];
+	
+	CC_MD5(cStr, (unsigned int)strlen(cStr), result);
+	return [NSString stringWithFormat:
+			@"%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x",
+			result[0],result[1],result[2],result[3],
+			result[4],result[5],result[6],result[7],
+			result[8],result[9],result[10],result[11],
+			result[12],result[13],result[14],result[15]];
 }
 @end

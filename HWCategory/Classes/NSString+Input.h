@@ -2,7 +2,7 @@
 //  NSString+Input.h
 //  HWCategory
 //
-//  Created by 华奥 on 2018/2/11.
+//  Created by HW on 2018/2/11.
 //
 
 #import <Foundation/Foundation.h>
@@ -24,5 +24,15 @@
 - (NSString *)replaceEmojiTextWithUnicode;
 
 - (NSString *)replaceEmojiUnicodeWithText;
+
+// MARK: TRIM
+
+- (NSString *)trimEndComma;
+
+- (NSString *)trimEndStr:(NSString *)str;
+
+// MARK: CRYPTO
+
+- (NSString *)MD5_32;
 
 @end
