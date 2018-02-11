@@ -1,0 +1,16 @@
+PODS:
+  - HWCategory (0.1.0)
+
+DEPENDENCIES:
+  - HWCategory (from `../`)
+
+EXTERNAL SOURCES:
+  HWCategory:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HWCategory: d0eafb8cb4f9de9679954d9a8aacaab7bb495e23
+
+PODFILE CHECKSUM: af127ca39dbb43fc6f18262b2348552acc3f6ad1
+
+COCOAPODS: 1.4.0
