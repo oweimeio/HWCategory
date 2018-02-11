@@ -9,31 +9,15 @@
 
 @interface NSString (Input)
 
-// MARK: EMPTY
-
-- (BOOL)isEmpty;
-
-// MARK: EMAIL
-
-- (BOOL)isEmail;
-
-// MARK: ID
-
-- (BOOL)isIDNumber;
-
 // MARK: SPACE
 
 - (NSString *)trimStartSpace;
 
 - (NSString *)trimSpace;
 
-
-
 // MARK: PHONE NUMBER
 
 - (NSString *)phoneNumber;
-
-- (BOOL)isPhoneNumber;
 
 // MARK: EMOJI
 

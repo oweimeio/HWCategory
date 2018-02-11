@@ -11,6 +11,7 @@
 #endif
 
 #import "NSString+Input.h"
+#import "NSString+Validation.h"
 
 FOUNDATION_EXPORT double HWCategoryVersionNumber;
 FOUNDATION_EXPORT const unsigned char HWCategoryVersionString[];

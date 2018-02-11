@@ -8,6 +8,8 @@
 
 #import "HWViewController.h"
 
+#import <HWCategory/NSString+Validation.h>
+
 @interface HWViewController ()
 
 @end
@@ -18,6 +20,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+	
 }
 
 - (void)didReceiveMemoryWarning
