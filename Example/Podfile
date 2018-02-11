@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HWCategory_Example' do
+  pod 'HWCategory', :path => '../'
+
+  target 'HWCategory_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
