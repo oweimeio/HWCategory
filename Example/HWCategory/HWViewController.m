@@ -8,7 +8,7 @@
 
 #import "HWViewController.h"
 
-#import <HWCategory/NSString+Validation.h>
+#import <HWCategory/HWCategory.h>
 
 @interface HWViewController ()
 

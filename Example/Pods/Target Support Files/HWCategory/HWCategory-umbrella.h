@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "HWCategory.h"
 #import "NSString+Input.h"
 #import "NSString+Validation.h"
 
