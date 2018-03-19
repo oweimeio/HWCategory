@@ -1,5 +1,5 @@
 PODS:
-  - HWCategory (0.1.0)
+  - HWCategory (0.1.1)
 
 DEPENDENCIES:
   - HWCategory (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  HWCategory: d0eafb8cb4f9de9679954d9a8aacaab7bb495e23
+  HWCategory: 85ad6a57aea54831a049652158524f50739485d7
 
 PODFILE CHECKSUM: af127ca39dbb43fc6f18262b2348552acc3f6ad1
 

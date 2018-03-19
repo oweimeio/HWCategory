@@ -7,7 +7,7 @@
 
 #import "NSString+Convert.h"
 #import "NSString+Date.h"
-#import "NSString+Input.h"
+#import "NSString+Validation.h"
 
 @implementation NSString (Convert)
 
@@ -68,7 +68,7 @@
 
 - (NSString *)extractGenderFromIDNumber {
 	
-	if (![self isIDNumber]) {
+	if (![self isIDCardNumber]) {
 		return @"";
 	}
 	
