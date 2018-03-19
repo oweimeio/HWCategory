@@ -1,9 +1,8 @@
 //
 //  NSString+Encrypt.m
-//  LYCategory
+//  HWCategory
 //
-//  Created by Rick Luo on 1/4/14.
-//  Copyright (c) 2014 Luo Yu. All rights reserved.
+//  Created by HW on 2018/3/19.
 //
 
 #import "NSString+Encrypt.h"

@@ -1,9 +1,8 @@
 //
 //  NSString+Convert.h
-//  LYCATEGORY
+//  HWCategory
 //
-//  CREATED BY LUO YU ON 2016-11-04.
-//  COPYRIGHT (C) 2016 LUO YU. ALL RIGHTS RESERVED.
+//  Created by HW on 2018/3/19.
 //
 
 #import <Foundation/Foundation.h>

@@ -1,9 +1,8 @@
 //
 //  NSUserDefaults+Speed.h
-//  LYCategory
+//  HWCategory
 //
-//  Created by Rick Luo on 2013-11.
-//  Copyright (c) 2013 Luo Yu. All rights reserved.
+//  Created by HW on 2018/3/19.
 //
 
 #import <Foundation/Foundation.h>

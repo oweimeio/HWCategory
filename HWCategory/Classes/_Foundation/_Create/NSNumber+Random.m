@@ -1,9 +1,8 @@
 //
 //  NSNumber+Random.m
-//  LYCategory
+//  HWCategory
 //
-//  Created by Rick Luo on 12/11/13.
-//  Copyright (c) 2013 Luo Yu. All rights reserved.
+//  Created by HW on 2018/3/19.
 //
 
 #import "NSNumber+Random.h"

@@ -1,9 +1,8 @@
 //
 //  UIView+Animate.h
-//  LYCategory
+//  HWCategory
 //
-//  Created by Luo Yu on 2015-01-01.
-//  Copyright (c) 2015 Luo Yu. All rights reserved.
+//  Created by HW on 2018/3/19.
 //
 
 #import <UIKit/UIKit.h>

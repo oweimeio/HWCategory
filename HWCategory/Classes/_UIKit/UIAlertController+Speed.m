@@ -1,9 +1,8 @@
 //
 //  UIAlertController+Speed.m
-//  LYCategory
+//  HWCategory
 //
-//  CREATED BY LUO YU ON 2017-03-17.
-//  COPYRIGHT (C) 2017 LUO YU. ALL RIGHTS RESERVED.
+//  Created by HW on 2018/3/19.
 //
 
 #import "UIAlertController+Speed.h"

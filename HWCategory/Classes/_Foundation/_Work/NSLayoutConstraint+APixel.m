@@ -1,9 +1,8 @@
 //
 //  NSLayoutConstraint+APixel.m
-//  LUO YU
+//  HWCategory
 //
-//  CREATED BY LUO YU ON 8/4/15.
-//  COPYRIGHT (C) 2015 LUO YU. ALL RIGHTS RESERVED.
+//  Created by HW on 2018/3/19.
 //
 
 #import "NSLayoutConstraint+APixel.h"

@@ -1,10 +1,8 @@
 //
 //  UIImage+Filter.h
-//  LYCategory
+//  HWCategory
 //
-//  Created by Luo Yu on 29/11/2016.
-//  Email : indie.luo@gmail.com
-//  Copyright (c) 2014 Luo Yu. All rights reserved.
+//  Created by HW on 2018/3/19.
 //
 
 #import <UIKit/UIKit.h>

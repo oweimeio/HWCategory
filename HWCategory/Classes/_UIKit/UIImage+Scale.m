@@ -1,10 +1,8 @@
 //
 //  UIImage+Scale.m
-//  LYCategory
+//  HWCategory
 //
-//  Created by Luo Yu on 2/24/14.
-//  Email : indie.luo@gmail.com
-//  Copyright (c) 2014 Luo Yu. All rights reserved.
+//  Created by HW on 2018/3/19.
 //
 
 #import "UIImage+Scale.h"

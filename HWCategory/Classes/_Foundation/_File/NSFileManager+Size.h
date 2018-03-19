@@ -1,9 +1,8 @@
 //
 //  NSFileManager+Size.h
-//  LYCategory
+//  HWCategory
 //
-//  CREATED BY LUO YU ON 9/23/15.
-//  COPYRIGHT © 2015 LUO YU. ALL RIGHTS RESERVED.
+//  Created by HW on 2018/3/19.
 //
 
 #import <Foundation/Foundation.h>

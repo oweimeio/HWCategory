@@ -1,9 +1,8 @@
 //
 //  NSMutableArray+Fix.m
-//  LYCategory
+//  HWCategory
 //
-//  Created by Luo Yu on 8/24/14.
-//  Copyright (c) 2014 Luo Yu. All rights reserved.
+//  Created by HW on 2018/3/19.
 //
 
 #import "NSMutableArray+Fix.h"

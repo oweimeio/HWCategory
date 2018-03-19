@@ -1,9 +1,8 @@
 //
 //  NSFileManager+IOS.m
-//  LYCategory
+//  HWCategory
 //
-//  Created by Luo Yu on 4/8/14.
-//  Copyright (c) 2014 Luo Yu. All rights reserved.
+//  Created by HW on 2018/3/19.
 //
 
 #import "NSFileManager+IOS.h"

@@ -1,9 +1,8 @@
 //
 //  NSArray+Fix.m
-//  LYCategory
+//  HWCategory
 //
-//  Created by Rick Luo on 11/25/13.
-//  Copyright (c) 2013 Luo Yu. All rights reserved.
+//  Created by HW on 2018/3/19.
 //
 
 #import "NSArray+Fix.h"

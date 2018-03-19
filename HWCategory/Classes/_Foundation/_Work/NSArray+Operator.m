@@ -1,9 +1,8 @@
 //
 //  NSArray+Operator.m
-//  LYCategory
+//  HWCategory
 //
-//  Created by Luo Yu on 7/19/14.
-//  Copyright (c) 2014 Luo Yu. All rights reserved.
+//  Created by HW on 2018/3/19.
 //
 
 #import "NSArray+Operator.h"

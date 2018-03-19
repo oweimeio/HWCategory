@@ -1,9 +1,8 @@
 //
 //  NSString+Size.m
-//  LYCATEGORY
+//  HWCategory
 //
-//  CREATED BY LUO YU ON 3/23/14.
-//  COPYRIGHT (C) 2014 LUO YU. ALL RIGHTS RESERVED.
+//  Created by HW on 2018/3/19.
 //
 
 #import "NSString+Size.h"

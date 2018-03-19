@@ -1,9 +1,8 @@
 //
 //  NSMutableArray+Operator.m
-//  LYCategory
+//  HWCategory
 //
-//  Created by Luo Yu on 7/22/14.
-//  Copyright (c) 2014 Luo Yu. All rights reserved.
+//  Created by HW on 2018/3/19.
 //
 
 #import "NSMutableArray+Operator.h"
