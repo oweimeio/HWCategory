@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HWCategory'
-  s.version          = '0.1.3'
+  s.version          = '0.1.4'
   s.summary          = 'HWCategory use for Project'
   s.description      = <<-DESC
   TODO: Add long description of the pod here.
