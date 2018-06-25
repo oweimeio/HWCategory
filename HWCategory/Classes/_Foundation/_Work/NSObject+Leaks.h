@@ -9,4 +9,8 @@
 
 @interface NSObject (Leaks)
 
+- (void)willDealloc;
+
++ (void)swizzleSEL:(SEL)originalSEL withSEL:(SEL)swizzledSEL;
+
 @end
